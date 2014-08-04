@@ -9,3 +9,5 @@ gem 'erb2haml'
 gem 'haml-rails'
 gem 'better_errors'
 gem 'binding_of_caller'
+
+gem 'unicorn'
